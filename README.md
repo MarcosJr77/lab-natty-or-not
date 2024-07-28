@@ -5,9 +5,7 @@
 
 ## IA 📒
 
-A IA generativa é um ramo da inteligência artificial que se concentra na criação de conteúdo original, como texto, imagens, vídeos, música ou código, em resposta a um prompt ou solicitação do usuário12.
-
-Ela utiliza modelos avançados de aprendizado de máquina, especialmente redes neurais profundas, para identificar padrões em grandes volumes de dados e gerar novos conteúdos que imitam a criatividade humana.
+A IA generativa é um tipo de inteligência artificial que pode criar conteúdo original, como texto, imagens, vídeos, áudio ou código de software, em resposta a uma solicitação do usuário12. Ela utiliza modelos de aprendizado profundo (deep learning) que simulam os processos de aprendizado e tomada de decisões do cérebro humano.
 
 
 ## Principais IAs generativas:
