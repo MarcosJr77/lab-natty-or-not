@@ -7,9 +7,10 @@
 
 A IA generativa é um ramo da inteligência artificial que se concentra na criação de conteúdo original, como texto, imagens, vídeos, música ou código, em resposta a um prompt ou solicitação do usuário12.
 
-Ela utiliza modelos avançados de aprendizado de máquina, especialmente redes neurais profundas, para identificar padrões em grandes volumes de dados e gerar novos conteúdos que imitam a criatividade humana1
+Ela utiliza modelos avançados de aprendizado de máquina, especialmente redes neurais profundas, para identificar padrões em grandes volumes de dados e gerar novos conteúdos que imitam a criatividade humana.
 
-#Principais IAs generativas:
+
+## Principais IAs generativas:
 
 ChatGPT: Desenvolvido pela OpenAI, é um modelo de linguagem que pode gerar texto coerente e relevante em resposta a prompts variados.
 
@@ -39,7 +40,7 @@ Produza sem esforço vídeos com qualidade de estúdio com avatares e vozes gera
 Pesquisa pioneira em Text to Speech, AI Voice Generator e muito mais: [Elevenlabs](https://elevenlabs.io)
 
 
-#Reflexão 💭
+## Reflexão 💭
 
 A utilização das IAs vem se tornado cada vez mais comum ganhando espação em diversas áreas e se desenvolvido cada vez mais.
 
