@@ -3,7 +3,7 @@
 
 ## 🎯 IAs Generativas Futuro Presente 🚀
 
-#IA 📒
+## IA 📒
 
 A IA generativa é um ramo da inteligência artificial que se concentra na criação de conteúdo original, como texto, imagens, vídeos, música ou código, em resposta a um prompt ou solicitação do usuário12.
 
@@ -30,8 +30,7 @@ Essas IAs utilizam técnicas avançadas de aprendizado de máquina e redes neura
 
 Há varias ferramentas para pesquisa e criação com utilização de IAs:
 
-!(https://th.bing.com/th/id/OIG2.ydfaIlyd0rC_dJ7dkEsn?pid=ImgGn)
-
+![image](https://github.com/user-attachments/assets/a2285ec1-df6d-4f32-93be-aa2e9f0b0958)
 
 Permite criar imagens com base em suas palavras através da IA: [Microsoft Designer](https://copilot.microsoft.com/)
 
