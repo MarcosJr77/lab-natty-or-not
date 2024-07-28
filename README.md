@@ -1,51 +1,46 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-## 🚀 Introdução
 
-> Woooow! Look at this 👀
+## 🎯 IAs Generativas Futuro Presente 🚀
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+#IA 📒
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+A IA generativa é um ramo da inteligência artificial que se concentra na criação de conteúdo original, como texto, imagens, vídeos, música ou código, em resposta a um prompt ou solicitação do usuário12.
 
-### Objetivos
+Ela utiliza modelos avançados de aprendizado de máquina, especialmente redes neurais profundas, para identificar padrões em grandes volumes de dados e gerar novos conteúdos que imitam a criatividade humana1
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+#Principais IAs generativas:
 
-### Template
+ChatGPT: Desenvolvido pela OpenAI, é um modelo de linguagem que pode gerar texto coerente e relevante em resposta a prompts variados.
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+DALL-E: Também da OpenAI, é uma IA que cria imagens a partir de descrições textuais.
 
-## 📒 Descrição
-Breve descrição do seu projeto
+MidJourney: Focada na criação de imagens artísticas e visuais a partir de prompts textuais.
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Copilot: Desenvolvido pela Microsoft, é uma ferramenta que auxilia na programação, sugerindo linhas de código e completando trechos de programas.
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Gemini: Um modelo de IA que combina texto e imagem para gerar conteúdo multimodal.
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+Stable Diffusion: Um modelo de geração de imagens que permite criar visuais detalhados e variados a partir de descrições textuais.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Essas IAs utilizam técnicas avançadas de aprendizado de máquina e redes neurais para identificar padrões em grandes volumes de dados e gerar novos conteúdos.
 
-### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+### Utilização 🤖
 
-## Links Interessantes
+Há varias ferramentas para pesquisa e criação com utilização de IAs:
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
+!(https://th.bing.com/th/id/OIG2.ydfaIlyd0rC_dJ7dkEsn?pid=ImgGn)
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+
+Permite criar imagens com base em suas palavras através da IA: [Microsoft Designer](https://copilot.microsoft.com/)
+
+Produza sem esforço vídeos com qualidade de estúdio com avatares e vozes gerados por IA: [Heygen](https://www.heygen.com/d-id-alternative?sid=did-alternative-ggs&gad_source=1&gclid=CjwKCAjw1920BhA3EiwAJT3lSd5Gkz46q7dwsgXrwq8AxQZGRiEMWTf2vp4Ax-PbW1ef4ZRrUTVTDBoCmFAQAvD_BwE)
+
+Pesquisa pioneira em Text to Speech, AI Voice Generator e muito mais: [Elevenlabs](https://elevenlabs.io)
+
+
+#Reflexão 💭
+
+A utilização das IAs vem se tornado cada vez mais comum ganhando espação em diversas áreas e se desenvolvido cada vez mais.
+
